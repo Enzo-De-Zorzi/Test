@@ -1,3 +1,5 @@
 # Data Science Labs
-10 labs about Data Preparation and Machine Learning, performed in class as an introduction to Data Science.<br />
-These labs cover : missing values, dimensionality reduction, data imbalance, text processing, regression models, SVMs, decision trees, clustering and an introduction to neural networks.
+15 Data Science Labs performed during my studies.<br />
+These labs cover :
+- Data preparation techniques concerning : missing data, dimensionality reduction, data imbalance and text processing
+- Machine Learning models such as : regression, SVMs, decision trees, clustering and an introduction to neural networks.
